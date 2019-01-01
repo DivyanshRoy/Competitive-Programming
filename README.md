@@ -1,2 +1,2 @@
 # Competitive-Programming
-Accepted Solutions from Codeforces, Codechef, SPOJ, Google Kickstart
+Solutions to Codeforces, Codechef, SPOJ, Google Kickstart problems
